@@ -8,5 +8,9 @@
         "Minor UI refinements",
         "Performance optimizations",
         "Stability improvements for Android 15+"
-    ]
+    ],
+    "disableRequest": {
+        "below": 0,
+        "on": ""
+    }
 }
